@@ -23,5 +23,6 @@
 
 #### <span id="not-stylegan-source">Source-oriented
 - [ICCV'19] [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://nirkin.com/fsgan/) :white_check_mark:
+- [FG'18] [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817)
   
 #### <span id="not-stylegan-target">Target-oriented
