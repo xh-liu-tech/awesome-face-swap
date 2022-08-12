@@ -26,4 +26,5 @@
 - [FG'18] [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817)
   
 #### <span id="not-stylegan-target">Target-oriented
+- [SIGGRAPH Poster'18] [RSGAN: Face Swapping and Editing using Face and Hair Representation in Latent Spaces](https://dl.acm.org/doi/10.1145/3230744.3230818)
 - [ACCV'18] [FSNet: An Identity-Aware Generative Model for Image-Based Face Swapping](https://tatsy.github.io/projects/natsume2018fsnet/)
