@@ -13,6 +13,7 @@
 ---
 
 :white_check_mark:: Code Available
+:hourglass_flowing_sand:: Code Coming Soon
 
 ### StyleGAN-based
 
@@ -30,6 +31,7 @@
 
 #### <span id="not-stylegan-source">Source-oriented
 - [TPAMI'22] [FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/abs/2202.12972) [:white_check_mark:](https://github.com/YuvalNirkin/fsgan)
+- [CVPR'22] [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/) [:hourglass_flowing_sand:](https://github.com/jmliu88/HeSer)
 - [IJCAI'21] [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://johann.wang/HifiFace/)
 - [CSVT'21] [A Unified Framework for High Fidelity Face Swap and Expression Reenactment](https://ieeexplore.ieee.org/document/9517088)
 - [arXiv'20] [DeepFaceLab: Integrated, flexible and extensible face-swapping framework](https://arxiv.org/abs/2005.05535) [:white_check_mark:](https://github.com/iperov/DeepFaceLab)
