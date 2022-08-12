@@ -18,6 +18,7 @@
 
 #### <span id="stylegan-source">Source-oriented
 #### <span id="stylegan-target">Target-oriented
+- [CVPR'22] [High-resolution Face Swapping via Latent Semantics Disentanglement](https://arxiv.org/abs/2203.15958) :white_check_mark:
 
 ### Not StyleGAN-based
 
