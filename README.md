@@ -18,6 +18,7 @@
 
 #### <span id="stylegan-source">Source-oriented
 - [CVPR'21] [FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html)
+- [ACCV'20] [Unified Application of Style Transfer for Face Swapping and Reenactment](https://openaccess.thecvf.com/content/ACCV2020/html/Le_Minh_Ngo_Unified_Application_of_Style_Transfer_for_Face_Swapping_and_Reenactment_ACCV_2020_paper.html)
 #### <span id="stylegan-target">Target-oriented
 - [CVPR'22] [High-resolution Face Swapping via Latent Semantics Disentanglement](https://arxiv.org/abs/2203.15958) [:white_check_mark:](https://github.com/cnnlstm/fslsd_hires)
 - [CVPR'21] [One Shot Face Swapping on Megapixels](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_One_Shot_Face_Swapping_on_Megapixels_CVPR_2021_paper.pdf) [:white_check_mark: (Inference only)](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
