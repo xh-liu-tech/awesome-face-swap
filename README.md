@@ -35,6 +35,7 @@
 - [ICCV'17] [Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/abs/1611.09577)
   
 #### <span id="not-stylegan-target">Target-oriented
+- [CVPR'22] [Smooth-Swap: A Simple Enhancement for Face-Swapping with Smoothness](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Smooth-Swap_A_Simple_Enhancement_for_Face-Swapping_With_Smoothness_CVPR_2022_paper.pdf)
 - [Github'20] [deepfakes_faceswap](https://github.com/deepfakes/faceswap) [:white_check_mark:](https://github.com/deepfakes/faceswap)
 - [MM'20] [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/abs/2106.06340) [:white_check_mark:](https://github.com/neuralchen/SimSwap)
 - [CVPR'20] [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457) [:white_check_mark:(Unofficial)](https://github.com/mindslab-ai/faceshifter)
