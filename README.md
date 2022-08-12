@@ -26,6 +26,7 @@
 
 #### <span id="not-stylegan-source">Source-oriented
 - [TPAMI'22] [FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/abs/2202.12972) [:white_check_mark:](https://github.com/YuvalNirkin/fsgan)
+- [IJCAI'21] [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://johann.wang/HifiFace/)
 - [arXiv'20] [DeepFaceLab: Integrated, flexible and extensible face-swapping framework](https://arxiv.org/abs/2005.05535) [:white_check_mark:](https://github.com/iperov/DeepFaceLab)
 - [AIES'20] [Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation](https://arxiv.org/abs/2003.00813)
 - [ICCV'19] [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://nirkin.com/fsgan/) [:white_check_mark:](https://github.com/YuvalNirkin/fsgan)
