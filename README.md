@@ -28,3 +28,4 @@
 #### <span id="not-stylegan-target">Target-oriented
 - [SIGGRAPH Poster'18] [RSGAN: Face Swapping and Editing using Face and Hair Representation in Latent Spaces](https://dl.acm.org/doi/10.1145/3230744.3230818)
 - [ACCV'18] [FSNet: An Identity-Aware Generative Model for Image-Based Face Swapping](https://tatsy.github.io/projects/natsume2018fsnet/)
+- [CVPR'18] [Towards Open-Set Identity Preserving Face Synthesis](https://arxiv.org/abs/1803.11182)
