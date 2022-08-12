@@ -26,6 +26,7 @@
 - [arXiv'20] [DeepFaceLab: Integrated, flexible and extensible face-swapping framework](https://arxiv.org/abs/2005.05535) :white_check_mark:
 - [ICCV'19] [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://nirkin.com/fsgan/) :white_check_mark:
 - [FG'18] [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817)
+- [ICCV'17] [Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/abs/1611.09577)
   
 #### <span id="not-stylegan-target">Target-oriented
 - [Github'20] [deepfakes_faceswap](https://github.com/deepfakes/faceswap) :white_check_mark:
