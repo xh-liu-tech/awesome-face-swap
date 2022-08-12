@@ -13,6 +13,7 @@
 ---
 
 :white_check_mark:: Code Available
+
 :hourglass_flowing_sand:: Code Coming Soon
 
 ### StyleGAN-based
