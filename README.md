@@ -17,6 +17,7 @@
 ### StyleGAN-based
 
 #### <span id="stylegan-source">Source-oriented
+- [CVPR'21] [FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html)
 #### <span id="stylegan-target">Target-oriented
 - [CVPR'22] [High-resolution Face Swapping via Latent Semantics Disentanglement](https://arxiv.org/abs/2203.15958) [:white_check_mark:](https://github.com/cnnlstm/fslsd_hires)
 
@@ -34,6 +35,7 @@
 - [Github'20] [deepfakes_faceswap](https://github.com/deepfakes/faceswap) [:white_check_mark:](https://github.com/deepfakes/faceswap)
 - [MM'20] [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/abs/2106.06340) [:white_check_mark:](https://github.com/neuralchen/SimSwap)
 - [CVPR'20] [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457) [:white_check_mark:(Unofficial)](https://github.com/mindslab-ai/faceshifter)
+- [CVPR'20] [Advancing High Fidelity Identity Swapping for Forgery Detection](https://ieeexplore.ieee.org/document/9156865)
 - [SIGGRAPH Poster'18] [RSGAN: Face Swapping and Editing using Face and Hair Representation in Latent Spaces](https://dl.acm.org/doi/10.1145/3230744.3230818)
 - [ACCV'18] [FSNet: An Identity-Aware Generative Model for Image-Based Face Swapping](https://tatsy.github.io/projects/natsume2018fsnet/)
 - [CVPR'18] [Towards Open-Set Identity Preserving Face Synthesis](https://arxiv.org/abs/1803.11182)
