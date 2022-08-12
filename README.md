@@ -26,3 +26,4 @@
 - [FG'18] [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817)
   
 #### <span id="not-stylegan-target">Target-oriented
+- [ACCV'18] [FSNet: An Identity-Aware Generative Model for Image-Based Face Swapping](https://tatsy.github.io/projects/natsume2018fsnet/)
