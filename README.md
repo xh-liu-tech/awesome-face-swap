@@ -23,6 +23,7 @@
 - [CVPR'21] [One Shot Face Swapping on Megapixels](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_One_Shot_Face_Swapping_on_Megapixels_CVPR_2021_paper.pdf) [:white_check_mark: (Inference only)](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
 - [arXiv'21] [ShapeEditer: a StyleGAN Encoder for Face Swapping](https://arxiv.org/abs/2106.13984)
 - [TOG'20] [Face Identity Disentanglement via Latent Space Mapping](https://arxiv.org/abs/2005.07728) [:white_check_mark:](https://github.com/YotamNitzan/ID-disentanglement)
+- [AAAI'20] [FaceController: Controllable Attribute Editing for Face in the Wild](https://arxiv.org/abs/2102.11464)
 
 ### Not StyleGAN-based
 
