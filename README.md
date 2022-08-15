@@ -47,6 +47,7 @@
 - [AAAI'22] [MobileFaceSwap: A Lightweight Framework for Video Face Swapping](https://arxiv.org/abs/2201.03808) [:white_check_mark:](https://github.com/Seanseattle/MobileFaceSwap)
 - [ICME'22] [Migrating Face Swap to Mobile Devices: A lightweight Framework and A Supervised Training Solution](https://arxiv.org/abs/2204.08339) [:white_check_mark:](https://github.com/hoim/mobilefsgan)
 - [arXiv'22] [Learning Disentangled Representation for One-shot Progressive Face Swapping](https://arxiv.org/abs/2203.12985) [:white_check_mark:](https://github.com/liqi-casia/FaceSwapper)
+- [CVPR'21] [Information Bottleneck Disentanglement for Identity Swapping](https://ieeexplore.ieee.org/document/9577500) [:white_check_mark:](https://github.com/GGGHSL/InfoSwap-master)
 - [Github'20] [deepfakes_faceswap](https://github.com/deepfakes/faceswap) [:white_check_mark:](https://github.com/deepfakes/faceswap)
 - [MM'20] [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/abs/2106.06340) [:white_check_mark:](https://github.com/neuralchen/SimSwap)
 - [CVPR'20] [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457) [:white_check_mark: (Unofficial)](https://github.com/mindslab-ai/faceshifter)
