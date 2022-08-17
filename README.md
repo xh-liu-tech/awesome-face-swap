@@ -35,7 +35,6 @@
 #### <span id="not-stylegan-source">Source-oriented
 - [TPAMI'22] [FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment](https://arxiv.org/abs/2202.12972) [:white_check_mark:](https://github.com/YuvalNirkin/fsgan)
 - [CVPR'22] [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/) [:hourglass_flowing_sand:](https://github.com/jmliu88/HeSer)
-- [IJCAI'21] [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://johann.wang/HifiFace/)
 - [CSVT'21] [A Unified Framework for High Fidelity Face Swap and Expression Reenactment](https://ieeexplore.ieee.org/document/9517088)
 - [NeurIPS'20] [AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection](https://arxiv.org/abs/2011.02674)
 - [arXiv'20] [DeepFaceLab: Integrated, flexible and extensible face-swapping framework](https://arxiv.org/abs/2005.05535) [:white_check_mark:](https://github.com/iperov/DeepFaceLab)
@@ -50,6 +49,7 @@
 - [ICME'22] [Migrating Face Swap to Mobile Devices: A lightweight Framework and A Supervised Training Solution](https://arxiv.org/abs/2204.08339) [:white_check_mark:](https://github.com/hoim/mobilefsgan)
 - [arXiv'22] [Learning Disentangled Representation for One-shot Progressive Face Swapping](https://arxiv.org/abs/2203.12985) [:white_check_mark:](https://github.com/liqi-casia/FaceSwapper)
 - [CVPR'21] [Information Bottleneck Disentanglement for Identity Swapping](https://ieeexplore.ieee.org/document/9577500) [:white_check_mark:](https://github.com/GGGHSL/InfoSwap-master)
+- [IJCAI'21] [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://johann.wang/HifiFace/) [:white_check_mark: (Unofficial)](https://github.com/mindslab-ai/hififace)
 - [Github'20] [deepfakes_faceswap](https://github.com/deepfakes/faceswap) [:white_check_mark:](https://github.com/deepfakes/faceswap)
 - [MM'20] [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/abs/2106.06340) [:white_check_mark:](https://github.com/neuralchen/SimSwap)
 - [CVPR'20] [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457) [:white_check_mark: (Unofficial)](https://github.com/mindslab-ai/faceshifter)
