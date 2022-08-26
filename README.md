@@ -16,6 +16,9 @@
 
 :hourglass_flowing_sand:: Code Coming Soon
 
+### Survey
+- [arXiv'22] [Facke: a Survey on Generative Models for Face Swapping](https://arxiv.org/abs/2206.11203) [:white_check_mark:](https://github.com/ailon-island/facke)
+
 ### StyleGAN-based
 
 #### <span id="stylegan-source">Source-oriented
